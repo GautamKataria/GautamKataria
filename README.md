@@ -6,6 +6,5 @@
 - 👯 I’m looking to collaborate on Data Science projects
 - 💬 Ask me about ML,DL,Computer Vison and Data Science in general
 - 📫 How to reach me: 
-#####   💠 [Linkedin](https://www.linkedin.com/in/gautam-kataria-1241b71a0/)
-#####   💠 [Instagram](https://www.instagram.com/gautzz_k/?hl=en)
-#####   💠 [Gmail](gautzzkataria@gmail.com)
+  #####   💠 [Linkedin](https://www.linkedin.com/in/gautam-kataria-1241b71a0/)
+  #####   💠 [Instagram](https://www.instagram.com/gautzz_k/?hl=en)

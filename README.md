@@ -1,7 +1,7 @@
 ### I'm Gautam Kataria a student and an aspiring data scientist.✌️
 ##### Currently persuing my Bachelors Degree in in B-tech I.T. from Manipal University,Jaipur
 
-- ⚽️ Hobbies: Sports (Football, badminton, cricket), Cooking/Baking, PLaying videogames.
+- ⚽️ Hobbies: Sports (Football, badminton, cricket), Cooking/Baking, Playing videogames.
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Computer Vision projects
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science projects
